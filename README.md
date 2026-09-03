@@ -6,6 +6,7 @@ Machine-checked certificates accompanying the paper:
 > reductions over the pillowcase**
 > Dhiren Jashwant Master — Independent Researcher, Pinner, United Kingdom
 > ORCID 0009-0009-9474-7191
+> dhiren@masterequation.org
 
 Archived release on Zenodo: DOI https://doi.org/10.5281/zenodo.22284549
 
