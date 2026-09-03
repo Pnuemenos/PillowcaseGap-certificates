@@ -7,7 +7,7 @@ Machine-checked certificates accompanying the paper:
 > Dhiren Jashwant Master — Independent Researcher, Pinner, United Kingdom
 > ORCID 0009-0009-9474-7191
 
-Archived release on Zenodo: DOI **[insert DOI after first release]**.
+Archived release on Zenodo: DOI https://doi.org/10.5281/zenodo.22284549
 
 ## Lean certificates (`PillowcaseGap/`)
 
